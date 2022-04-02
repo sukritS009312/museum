@@ -120,3 +120,11 @@ html,body {
     height: 90px;
   }
 }
+@media screen and (max-width: 391px) {
+  .icon img {
+    margin: 0;
+  }
+  .heading {
+    font-size: 20px;
+  }
+}
